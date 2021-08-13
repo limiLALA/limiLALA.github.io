@@ -10,4 +10,4 @@ type: "guestbook"
 </div>
 
 [//]: #(aplay音频播放https://github.com/MoePlayer/hexo-tag-aplayer)
-{% meting "2250011882" "netease" "playlist" "autoplay" "mutex:false" "order:random" "listmaxheight:250px" "preload:none"  "theme:#f7f7f7"%}
+{% "meting" "2250011882" "netease" "playlist" "autoplay" "mutex:false" "order:random" "listmaxheight:250px" "preload:none"  "theme:#f7f7f7"%}
