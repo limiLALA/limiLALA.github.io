@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: http://quellanan.xyz/sitemap.xml
+Sitemap: http://quellanan.xyz/baidusitemap.xml
+Sitemap: https://quellanan.xyz/sitemap.xml
+Sitemap: https://quellanan.xyz/baidusitemap.xml
